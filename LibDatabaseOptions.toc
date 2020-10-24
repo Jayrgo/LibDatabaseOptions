@@ -1,0 +1,7 @@
+# Interface: 
+## Title: LibDatabaseOptions |cffbebebeby Jayrgo|r
+## Author: Jayrgo
+## Version: 1.0.0
+
+LibDatabaseOptions.lua
+
